@@ -2,8 +2,9 @@
 
 A local software solution for automotive workshops and mechanics to manage their business operations.
 
-## 📸 Preview
-![MechTruck Login Page](./images/MechTruck.png)
+## 📸 Application Preview
+![MechTruck Login Interface](./images/MechTruck.png)
+*Sistema de autenticación para talleres mecánicos - En desarrollo*
 
 ## 🚧 Current Status
 **Frontend:** ✅ Completed  
