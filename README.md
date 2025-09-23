@@ -1,24 +1,39 @@
-# MechTruck - Workshop Management System
+# 🔧 MechTruck - Workshop Management System
 
 A local software solution for automotive workshops and mechanics to manage their business operations.
 
+## 📸 Preview
+![MechTruck Login Page](./images/MechTruck.png)
+
 ## 🚧 Current Status
-**Frontend:** Completed | **Backend:** In Development
+**Frontend:** ✅ Completed  
+**Backend:** 🔄 In Development  
+**Database:** 🔄 Planning Phase
 
 ## 🛠️ Technologies Used
-- Frontend: React, JavaScript, CSS3
-- Backend: Python, Flask (in progress)
-- Database: SQLite
+- **Frontend:** React, JavaScript, CSS3
+- **Backend:** Python, Flask (in progress)
+- **Database:** SQLite (planned)
+- **Authentication:** Custom login system
 
-## 📋 Features
-- Workshop management
-- Client database
-- Service tracking
-- Invoice generation
+## 📋 Key Features
+- ✅ User authentication system
+- ✅ Workshop management interface  
+- ✅ Client database management
+- ✅ Service tracking and invoicing
+- ✅ Responsive design for mechanics
 
-## 🚀 Installation
+## 🚀 Installation & Setup
+
 ```bash
+# Clone the repository
 git clone https://github.com/Jdmora91/MechTruck.git
+
+# Navigate to project directory
 cd MechTruck
+
+# Install dependencies
 npm install
+
+# Start development server
 npm start
